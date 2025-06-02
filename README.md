@@ -3,9 +3,7 @@
   <em>“The moon hangs low, and the code grows wild.”</em>  
 </p>
 
-<p align="center">
-  <img src="banner.png" alt="The-Vonky banner" />
-</p>
+
 
 ---
 
@@ -53,8 +51,8 @@
 | Projeto | Descrição |
 |--------|------------|
 | `MisParent` | Aplicativo Mobile usando React Native e Firebase (em progresso) |
-| `Fazenda Magalhães` | Protótipo de site administrativo |
-| `portfolio-web` | Meu portfólio pessoal (em construção) |
+| `Fazenda-Magalhães` | Protótipo de site administrativo |
+| `Portfolio-Web` | Meu portfólio pessoal (em construção) |
 
 ---
 
