@@ -1,4 +1,4 @@
-<h1 align="center">𖤐 The-Vonky 𖤐</h1>
+<h1 align="center"> The-Vonky </h1>
 <p align="center">
   <em>“The moon hangs low, and the code grows wild.”</em>  
 </p>
