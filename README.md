@@ -6,6 +6,14 @@
 
 ---
 
+## Estatísticas GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Vonky&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Vonky&theme=radical&hide_border=true" height="150" />
+</div>
+
+---
 ## Sobre mim
 
 🎓 Estudante de **Sistemas de Informação** – 4/8  
@@ -52,15 +60,6 @@ Outros projetos:
 - Protótipo de um app para escola usando React Native, Firebase e Expo  
 - Sites simples para aprender HTML, CSS e JavaScript  
 - Sistema de pedidos em C e gerador de currículo em Python (protótipos)
-
----
-
-## Estatísticas GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Vonky&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Vonky&theme=radical&hide_border=true" height="150" />
-</div>
 
 ---
 
