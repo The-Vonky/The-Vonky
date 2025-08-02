@@ -44,7 +44,7 @@
 
 ## Projetos em Destaque
 
-### DreyonFit (Em desenvolvimento) 
+### OmniFit (Em desenvolvimento) 
 Aplicativo mobile protótipo com foco em treino, dieta e progresso físico — idealizado com fluxo de navegação organizado, telas planejadas e uma base de autenticação.  
 **Tecnologias:** React Native · TypeScript · Supabase · Expo
 
