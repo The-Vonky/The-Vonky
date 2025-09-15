@@ -1,7 +1,7 @@
 <h1 align="center">Seja bem-vindo! Eu sou Deywid Braga (The‑Vonky)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvendo+Apps;+100+Dias+Seguidos+de+C%C3%B3digo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvendo+Apps;" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,6 @@
 📱 Foco em **Desenvolvimento Web & Mobile**  
 🧩 Interesse por **design de produto, organização e liderança**  
 📌 Brasil  
-📈 **100+ dias consecutivos programando** (e contando!)
 
 ---
 
@@ -59,7 +58,6 @@ Outros projetos:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=The-Vonky&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Vonky&theme=radical&hide_border=true" height="150" />
 </div>
 
 ---
