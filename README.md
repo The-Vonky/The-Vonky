@@ -54,14 +54,6 @@ Outros projetos:
 
 ---
 
-## Estatísticas GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Vonky&show_icons=true&theme=radical&hide_border=true" height="150" />
-</div>
-
----
-
 ## Buscando por...
 
 - A primeira oportunidade em Desenvolvimento Web ou Mobile  
