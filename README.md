@@ -8,8 +8,8 @@
 
 ## Sobre mim
 
-🎓 Estudante de **Sistemas de Informação** – 4/8  
-📱 Foco em **Desenvolvimento Web & Mobile**  
+🎓 Estudante de **Sistemas de Informação** – 5/8  
+📱 Foco em **Desenvolvimento Web & Mobile | Análise de Sistemas**  
 🧩 Interesse por **design de produto, organização e liderança**  
 📌 Brasil  
 
@@ -43,7 +43,7 @@
 
 ## Projetos em Destaque
 
-### OmniFit (Em desenvolvimento) 
+### OmniFit 
 Aplicativo mobile protótipo com foco em treino, dieta e progresso físico — idealizado com fluxo de navegação organizado, telas planejadas e uma base de autenticação.  
 **Tecnologias:** React Native · TypeScript · Supabase · Expo
 
@@ -56,7 +56,7 @@ Outros projetos:
 
 ## Buscando por...
 
-- A primeira oportunidade em Desenvolvimento Web ou Mobile  
+- A primeira oportunidade em Desenvolvimento Web / Mobile  
 - Ambientes que valorizem aprendizado real e projetos com propósito  
 - Conexões com pessoas que compartilham dedicação, curiosidade e evolução constante  
 
