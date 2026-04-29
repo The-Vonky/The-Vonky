@@ -1,79 +1,106 @@
-<h1 align="center">Seja bem-vindo! Eu sou Deywid Braga (The‑Vonky)</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvendo+Apps;" alt="Typing SVG" />
-</p>
+```
+████████╗██╗  ██╗███████╗       ██╗   ██╗ ██████╗ ███╗   ██╗██╗  ██╗██╗   ██╗
+╚══██╔══╝██║  ██║██╔════╝       ██║   ██║██╔═══██╗████╗  ██║██║ ██╔╝╚██╗ ██╔╝
+   ██║   ███████║█████╗  ██████╗██║   ██║██║   ██║██╔██╗ ██║█████╔╝  ╚████╔╝ 
+   ██║   ██╔══██║██╔══╝  ╚═════╝╚██╗ ██╔╝██║   ██║██║╚██╗██║██╔═██╗  ╚██╔╝  
+   ██║   ██║  ██║███████╗        ╚████╔╝ ╚██████╔╝██║ ╚████║██║  ██╗  ██║   
+   ╚═╝   ╚═╝  ╚═╝╚══════╝        ╚═══╝   ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═╝   
+```
 
----
+### `$ whoami` → **Deywid Braga** // **The-Vonky**
 
-## Sobre mim
+*Builder of unfinished things. Explorer of stacks. Lover of the craft.*
 
-🎓 Estudante de **Sistemas de Informação** – 5/8  
-📱 Foco em **Desenvolvimento Web & Mobile | Análise de Sistemas**  
-🧩 Interesse por **design de produto, organização e liderança**  
-📌 Brasil  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full-stack+by+accident%2C+dev+by+choice.;Sites%2C+apps%2C+softwares+%E2%80%94+you+name+it.;My+GitHub+is+a+graveyard+of+great+ideas.;...+and+I'm+okay+with+that.)](https://git.io/typing-svg)
 
----
-
-## Tecnologias e Ferramentas
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-Vonky&layout=compact&theme=radical" align="right" />
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
-## Projetos em Destaque
+## `> cat about.txt`
 
-### OmniFit 
-Aplicativo mobile protótipo com foco em treino, dieta e progresso físico — idealizado com fluxo de navegação organizado, telas planejadas e uma base de autenticação.  
-**Tecnologias:** React Native · TypeScript · Supabase · Expo
+```bash
+$ ./deywid --info
 
-Outros projetos:  
-- Protótipo de um app para escola usando React Native, Firebase e Expo  
-- Sites simples para aprender HTML, CSS e JavaScript  
-- Sistema de pedidos em C e gerador de currículo em Python (protótipos)
+Name     : Deywid Braga
+Alias    : The-Vonky
+Status   : Always coding, rarely finishing
+College  : Sistemas de Informação - UNIPAM — Patos de Minas, MG
+Progress : [5/8 semestres] ██████░░ 62%
+Focus    : Web · Mobile · Software
+Mindset  : "É melhor um projeto inacabado do que nenhum projeto."
+Mode     : [LEARNING] ████████░░ 80%
+```
 
----
-
-## Buscando por...
-
-- A primeira oportunidade em Desenvolvimento Web / Mobile  
-- Ambientes que valorizem aprendizado real e projetos com propósito  
-- Conexões com pessoas que compartilham dedicação, curiosidade e evolução constante  
-
----
-
-## Curiosidades sobre mim:
-
-- Trabalho fora da área, mas programo todos os dias  
-- Gosto de organizar projetos como se eu fosse o primeiro usuário  
-- Ainda sem experiências formais em TI, mas sempre em construção  
+> ⚡ Já fiz sites, apps e softwares. A maioria ainda tá em desenvolvimento... eterno.
+> Mas cada projeto quebrado me ensinou algo novo, e isso conta.
 
 ---
 
-<p align="center">🔽 Confira meus repositórios e projetos 👇</p>
+## `> ls skills/`
+
+<div align="center">
+
+| Layer | Stack |
+|-------|-------|
+| **Frontend** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Frameworks** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Other** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) |
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer"/>
-</p>
+## `> ./stats.sh`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=The-Vonky&show_icons=true&theme=matrix&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Vonky&layout=compact&theme=matrix&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=hacker&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> cat projects.log`
+
+```
+[WIP] ████████░░ — Sempre tem algo sendo construído
+[WIP] ██████░░░░ — Web · Mobile · Desktop
+[NEXT]░░░░░░░░░░ — Próximo projeto carregando...
+```
+
+> 💡 *Cada projeto é um experimento. É assim que se aprende de verdade.*
+
+---
+
+## `> ping deywid`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+// Obrigado por visitar. Agora volta pro seu código também.
+while (true) { learn(); build(); break_things(); repeat(); }
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=The-Vonky&color=00ff41&style=flat-square&label=VISITORS)
+
+</div>
