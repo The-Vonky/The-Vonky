@@ -58,14 +58,7 @@ Mode     : [LEARNING] ████████░░ 80%
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=The-Vonky&show_icons=true&theme=matrix&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Vonky&layout=compact&theme=matrix&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=hacker&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=The-Vonky&theme=hacker&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 </div>
 
