@@ -27,15 +27,15 @@ $ ./deywid --info
 Name     : Deywid Braga
 Alias    : The-Vonky
 Status   : Always coding, rarely finishing
-College  : Sistemas de Informação - UNIPAM — Patos de Minas, MG
-Progress : [5/8 semestres] ██████░░ 62%
+College  : Information Systems - UNIPAM — Patos de Minas, MG
+Progress : [5/8 semesters] ██████░░ 62%
 Focus    : Web · Mobile · Software
-Mindset  : "É melhor um projeto inacabado do que nenhum projeto."
+Mindset  : "An unfinished project is better than no project."
 Mode     : [LEARNING] ████████░░ 80%
 ```
 
-> ⚡ Já fiz sites, apps e softwares. A maioria ainda tá em desenvolvimento... eterno.
-> Mas cada projeto quebrado me ensinou algo novo, e isso conta.
+> I've made websites, apps and software. Most are still in development... eternal.
+> But every broken project taught me something new, and that counts.
 
 ---
 
@@ -67,12 +67,12 @@ Mode     : [LEARNING] ████████░░ 80%
 ## `> cat projects.log`
 
 ```
-[WIP] ████████░░ — Sempre tem algo sendo construído
+[WIP] ████████░░ — There is always something being built
 [WIP] ██████░░░░ — Web · Mobile · Desktop
-[NEXT]░░░░░░░░░░ — Próximo projeto carregando...
+[NEXT]░░░░░░░░░░ — Next project loading...
 ```
 
-> 💡 *Cada projeto é um experimento. É assim que se aprende de verdade.*
+>  *Each project is an experiment. This is how you really learn.*
 
 ---
 
@@ -90,7 +90,7 @@ Mode     : [LEARNING] ████████░░ 80%
 <div align="center">
 
 ```
-// Obrigado por visitar. Agora volta pro seu código também.
+// Thanks for visiting. Now go back to your code too.
 while (true) { learn(); build(); break_things(); repeat(); }
 ```
 
